@@ -18,3 +18,18 @@ O projeto está dividido em três pacotes principais:
 - Java 17
 - UML (StarUML/Astah)
 - GitHub para versionamento
+Diagramas do Projeto
+## Diagramas do Projeto
+
+### Diagrama de Pacotes
+![Pacotes](WhatsApp%20Image%202026-04-09%20at%2009.44.07.jpeg)
+
+### Diagrama de Classes
+![Classes](WhatsApp%20Image%202026-04-09%20at%2009.43.50.jpeg)
+
+### Diagrama de Sequência
+![Sequência](WhatsApp%20Image%202026-04-09%20at%2009.44.26.jpeg)
+
+### Diagrama de Componentes
+![Componentes](WhatsApp%20Image%202026-04-09%20at%2009.44.48.jpeg)
+
